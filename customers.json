@@ -1,0 +1,14 @@
+{
+   "customers": [
+      {
+         "customerId": "F1231433",
+         "name": "Pedro Fernández",
+         "language": "ES",
+         "birthDate": "12/05/1980",
+         "address": {
+            "provinceId": 28,
+            "cityId": 28009   
+         }
+      }
+   ]
+}
