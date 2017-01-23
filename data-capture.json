@@ -1,0 +1,66 @@
+{
+    "data": {
+        "title": "example data-capture",
+        "clients":[            
+            {
+            "isInsured":0,
+            "date_effect":"2000/10/21"
+            }
+        ],
+        "sameLocation":1,
+        "numInsurancePosible":8,
+        "cicle":"01/12/2016",
+        "validDate":[
+            "01/12/2016",
+            "15/12/2016",
+            "01/01/2017",
+            "15/01/2017",
+            "01/02/2017",
+            "15/02/2017"
+        ],
+        "provinces": [
+            "Madrid",
+            "Barcelona",
+            "Zaragoza",
+            "Sevilla",
+            "Albacete"
+        ],
+        "companies": [
+            "Ninguna",
+            "Adeslas",
+            "Aegon",
+            "Asisa",
+						"Asisa Santander",
+						"DKV",
+						"Mapfre",
+						"Sanitas",
+						"Otras"
+        ],
+        "insured":[
+            {
+                "holder":1,
+                "birthDate":"1969/10/21",
+                "location":"Zaragoza",
+                "actualCompany":"Adeslas"
+            },
+            {
+                "holder":0,
+                "birthDate":"1985/3/7",
+                "location":"Madrid",
+                "actualCompany":"Asisa"                
+            },
+            {
+                "holder":0,
+                "birthDate":"2000/10/21",
+                "location":"Sevilla",
+                "actualCompany":"Ninguna"                
+            },
+            {
+                "holder":0,
+                "birthDate":"1988/4/3",
+                "location":"Barcelona",
+                "actualCompany":"Mapfre"                
+            }
+        ]
+    }
+}
