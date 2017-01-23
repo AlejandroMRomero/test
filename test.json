@@ -1,0 +1,27 @@
+{
+    "data": {
+        "title": "offers list",
+        "msg1":"Incluye 4% descuento por forma de pago",
+        "msg2":"Importe del primer recibo según la forma de pago elegida. Incluye todos los impuestos, recargos y descuentos aplicables. A partir de la fecha de renovación de la póliza ( 31 de Diciembre ) este importe podrá ser actualizado en función de los costes de los servicios sanitarios y la edad de los asegurados. La prima incluye impuestos, recargos y descuentos aplicables.",
+        "offers":[
+            {
+                "image":"assets/images/offer_1.jpg",
+                "rot":"Básico sin hospitalización",
+                "PRIM":"35€",
+                "REST":"35€"
+            },
+            {
+                "image":"assets/images/offer_2.jpg",
+                "rot":"Cuadro Médico sin Copagos",
+                "PRIM":"45€",
+                "REST":"45€"
+            },
+            {
+                "image":"assets/images/offer_3.jpg",                
+                "rot":"Reembolso",
+                "PRIM":"85€",
+                "REST":"85€"
+            }
+        ]
+    }
+}
